@@ -11,6 +11,9 @@ VIGOR Logos (Inverted)
 
 VIGOR Typography
 
+You can find files in fonts folder or download at Google Fonts
+https://fonts.google.com/specimen/Montserrat
+
 ![](readme-images/vigor-typography.jpg)
 
 VIGOR Color Palette
